@@ -1,7 +1,5 @@
 ## Reprograma Git e Github
 
-
-
 ### Git
 
 ![GitHub Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
